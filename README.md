@@ -1,0 +1,2 @@
+# SharedAnimationBetweenActivities
+Shared Elements Transition Effect
